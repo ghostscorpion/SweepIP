@@ -1,7 +1,7 @@
 #!/bin/bash
 # SweepIP.sh
 # ping Class C IP address one time to get a list of IP address
-#By Ghostscorpion
+# By Ghostscorpion
 
 echo "What IP range do you wish to sweep for live systems on"
 echo "Syntax: 192.168.1"
