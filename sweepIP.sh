@@ -10,7 +10,7 @@ read ip
 
 if [ "$1" == "" ]
 then
-  echo "Need first three octet of the IP address"
+  echo "Need first three octets of the IP address."
   echo "Syntax : ./ipsweep.sh 192.168.1"
 
 else
